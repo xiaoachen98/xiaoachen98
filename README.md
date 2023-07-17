@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I'm [Lin Chen](https://lin-chen.site/), a Ph.D. student in BIVLab, USTC.
+- 🔭 I’m currently working as a research intern in Shanghai AI Laboratory.
+- 💬 I'm currently looking for collaborations, feel free to reach out to me.
+
+#### Research Projects
+* More Stable "Drag" Editing: [FreeDrag](https://lin-chen.site/projects/freedrag/)
+* Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
+* Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
+
 <!--
 **xiaoachen98/xiaoachen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
