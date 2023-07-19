@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I'm [Lin Chen](https://lin-chen.site/), a Ph.D. student in [BIVLab](https://bivlab123.github.io/), USTC.
-- 🔭 I’m currently working as a research intern in Shanghai AI Laboratory.
-- 💬 I'm currently looking for collaborations, feel free to reach out to me.
+- 🔭 I’m working as a research intern at Shanghai AI Laboratory.
+- 💬 I'm currently looking for collaborations, feel free to contact me.
 
 #### Research Projects
+* Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)
 * More Stable "Drag" Editing: [FreeDrag](https://lin-chen.site/projects/freedrag/)
 * Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
 * Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
