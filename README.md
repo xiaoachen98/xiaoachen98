@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm [Lin Chen](https://lin-chen.site/), a Ph.D. student in BIVLab, USTC.
+- 🌱 I'm [Lin Chen](https://lin-chen.site/), a Ph.D. student in [BIVLab](https://bivlab123.github.io/), USTC.
 - 🔭 I’m currently working as a research intern in Shanghai AI Laboratory.
 - 💬 I'm currently looking for collaborations, feel free to reach out to me.
 
