@@ -5,6 +5,7 @@
 - 💬 I'm currently looking for collaborations, feel free to contact me.
 
 #### Research Projects
+* Large-scale high-quality image-text data and superior large multi-modal model: [ShareGPT4V](https://sharegpt4v.github.io/).
 * Night-time and full-time semantic segmentation: [DTP](https://github.com/w1oves/DTP)
 * More Stable "Drag" Editing: [FreeDrag](https://lin-chen.site/projects/freedrag/)
 * Domain Adaptive Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB)
