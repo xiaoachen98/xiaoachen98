@@ -8,7 +8,7 @@
 * 🔥 An elite vision-indispensable multi-modal benchmark: [MMStar](https://mmstar-benchmark.github.io/).
 * 🔥 Large-scale high-quality image-text data and superior large multi-modal model: [ShareGPT4V](https://sharegpt4v.github.io/).
 * More Stable "Drag" Editing: [FreeDrag](https://lin-chen.site/projects/freedrag/)
-* Robust & Transferable Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB) [DTP](https://github.com/w1oves/DTP) [Rein](https://github.com/w1oves/Rein)
+* Robust & Transferable Semantic Segmentation: [DDB](https://github.com/xiaoachen98/DDB), [DTP](https://github.com/w1oves/DTP), [Rein](https://github.com/w1oves/Rein)
 * Discriminator-free Adversarial Domain Adaption: [DALN](https://github.com/xiaoachen98/DALN)
 
 <!--
