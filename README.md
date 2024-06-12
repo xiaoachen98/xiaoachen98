@@ -5,6 +5,7 @@
 - 💬 I'm currently looking for collaborations, feel free to contact me.
 
 #### Research Projects
+* 🔥 Large-scale high-quality video-text data and superior large video-language model: [ShareGPT4Video](https://sharegpt4video.github.io/).
 * 🔥 An elite vision-indispensable multi-modal benchmark: [MMStar](https://mmstar-benchmark.github.io/).
 * 🔥 Large-scale high-quality image-text data and superior large multi-modal model: [ShareGPT4V](https://sharegpt4v.github.io/).
 * More Stable "Drag" Editing: [FreeDrag](https://lin-chen.site/projects/freedrag/)
